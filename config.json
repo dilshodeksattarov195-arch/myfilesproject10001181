@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcecrypt",
+        "uuid": 8171339,
+        "checksum": "gk74te"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
